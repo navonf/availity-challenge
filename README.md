@@ -2,6 +2,8 @@
 
 Python 3. Used Flask for the API and TinyDB for the database - for a lightweight architecture.
 
+"Write an app in your programming language of choice that takes as input a list of files and a provider parameter. Depending on the provider parameter either write the files to a database, the file system, or print the files to console or popup window. The parameter values are “provider1” for database, “provider2” for file system, “provider3” for console/popup."
+
 #### Install
 
 To install dependecies, make sure pip is installed and run the following command.
